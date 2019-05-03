@@ -21,7 +21,7 @@ class MidnightSky{
             width: window.innerWidth,
             height: window.innerHeight,
             velocity: 0.1,
-            length: 25,
+            length: 17,
             distance: 120,
             radius: 150,
             stars: []
